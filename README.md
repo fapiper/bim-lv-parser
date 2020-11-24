@@ -2,7 +2,7 @@
 
 ## Examples
 
-Check out [examples](https://github.com/repype/bim-lv-container/tree/master/examples) folder for more details.
+Check out [example](https://github.com/repype/bim-lv-container/tree/main/example) folder.
 
 Install necessary dependencies
 
